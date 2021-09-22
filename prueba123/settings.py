@@ -89,9 +89,9 @@ DATABASES = {
             'default': {
             'ENGINE': 'django.db.backends.postgresql_psycopg2',
             'NAME': 'prueba',
-            'USER': 'postgres',
-            'PASSWORD': '2212',
-            'HOST': 'localhost', #localhost 127.0.0.0 
+            'USER': 'xh5u7i10h847hd3a',
+            'PASSWORD': 'dwdczjngyst69acc',
+            'HOST': 'nnsgluut5mye50or.cbetxkdyhwsb.us-east-1.rds.amazonaws.com', #localhost 127.0.0.0 
             'PORT': '5432', #5432 postressql
         }
     }
