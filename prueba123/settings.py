@@ -88,11 +88,11 @@ WSGI_APPLICATION = 'prueba123.wsgi.application'
 DATABASES = {
             'default': {
             'ENGINE': 'django.db.backends.postgresql_psycopg2',
-            'NAME': 'prueba',
+            'NAME': 'q825pr4j0jgme2bm',
             'USER': 'xh5u7i10h847hd3a',
             'PASSWORD': 'dwdczjngyst69acc',
             'HOST': 'nnsgluut5mye50or.cbetxkdyhwsb.us-east-1.rds.amazonaws.com', #localhost 127.0.0.0 
-            'PORT': '5432', #5432 postressql
+            'PORT': '3306', #5432 postressql
         }
     }
 
