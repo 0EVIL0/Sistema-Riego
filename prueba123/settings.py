@@ -92,7 +92,7 @@ DATABASES = {
             'USER': 'xh5u7i10h847hd3a',
             'PASSWORD': 'dwdczjngyst69acc',
             'HOST': 'nnsgluut5mye50or.cbetxkdyhwsb.us-east-1.rds.amazonaws.com', #localhost 127.0.0.0 
-            'PORT': '5432', #5432 postressql
+            'PORT': '3306', #5432 postressql
         }
     }
 
