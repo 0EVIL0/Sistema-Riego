@@ -26,7 +26,7 @@ SECRET_KEY = '&kez12ak65^x3(t^5*vh7t0w*9o-aloy5vz8_*zpe&k1p09xk&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["sistema-riego.herokuapp.com/"]
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
